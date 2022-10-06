@@ -1,7 +1,8 @@
 #this code will help us calculate the great common divisor of two numbers
+#I have provided two ways the code can be written
 
 #this code uses while loop
-'''num1 = int(input('What is the first numer?: '))
+num1 = int(input('What is the first numer?: '))
 num2 = int(input('What is the second number?: '))
 i = 1
 
@@ -11,7 +12,7 @@ while i <=num1 and i <= num2:
         gcd=i
     i = i+1
 
-print('GCD IS:', gcd)'''
+print('GCD IS:', gcd)
 
 # the code above is also possible possible. However, this one down here below is also possible
 
